@@ -1,0 +1,24 @@
+{
+  "name": "test-case-cypress-tabbing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/graham42/test-case-cypress-tabbing.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/graham42/test-case-cypress-tabbing/issues"
+  },
+  "homepage": "https://github.com/graham42/test-case-cypress-tabbing#readme",
+  "dependencies": {
+    "cypress": "^1.0.3",
+    "serve": "^6.4.0"
+  }
+}
